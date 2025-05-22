@@ -68,7 +68,7 @@ cat > jobs.pch <<\!
         }
         INTOFF;
         jp->state = 0;
-EOF
+!
 echo extracting README.CONFIG
 cat > README.CONFIG <<\!
 The config shell procedure is used to configure ash to reflect the
